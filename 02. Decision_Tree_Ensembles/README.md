@@ -13,4 +13,4 @@
 
 **Presentation Link** 
 
-http://www.slideshare.net/DeepakGeorge5/decision-tree-ensembles-bagging-random-forest-gradient-boosting-machines
+* [Decision Tree Ensembles - Bagging, Random Forest & Gradient Boosting Machines - Slideshare.com](http://www.slideshare.net/DeepakGeorge5/decision-tree-ensembles-bagging-random-forest-gradient-boosting-machines)

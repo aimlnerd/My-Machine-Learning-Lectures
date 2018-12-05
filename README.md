@@ -6,7 +6,7 @@
 
 
 **Links to slides** 
-* [Unsupervised Learning: Clustering - Slideshare.com](https://www.slideshare.net/DeepakGeorge5/unsupervised-learning-and-clustering-124079254)
+* [Unsupervised Learning: Clustering - Slideshare.com](https://www.slideshare.net/DeepakGeorge5/unsupervised-learning-clustering-125076398)
 * [Decision Tree Ensembles - Bagging, Random Forest & Gradient Boosting Machines - Slideshare.com](http://www.slideshare.net/DeepakGeorge5/decision-tree-ensembles-bagging-random-forest-gradient-boosting-machines)
 
 **Requirements**
